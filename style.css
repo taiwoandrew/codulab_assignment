@@ -1,0 +1,248 @@
+body{
+			font-family: candara;
+			font-weight: normal;
+			font-style: normal;
+			color: #413c3c;
+		}
+
+		.header{
+			height: 200px;
+			border: none;
+			background-color: #555252;
+			width: 100%;
+			font-size: 20px;
+		}
+		.logo{
+			float: left;
+			padding-top: 50px;
+			padding-left: 50px;
+		}
+		.header_text{
+			padding-left: 170px;
+			padding-top: 85px;
+			color: white;
+			font-size: 40px;
+		}
+			em{
+			font-style: italic;
+		}
+		.menu ol li{
+			border: none;
+			font-size: 20px;
+			display: inline;
+			height: 10px;
+			position: relative;
+			top: -10px;
+			width: 100%
+		}
+		.gallery_icon1{
+			padding-left: 10px;
+			float: left;
+		}
+		.gear_icon{
+			padding-left: 250px;
+		}
+		.interact_icon{
+			padding-left: -80px;
+			position: relative;
+			top: -58px;
+			text-align: center;
+		}
+		.shop_icon{
+			padding-right: 300px;
+			float: right;
+			position: relative;
+			top: -120px;
+			text-align: center;
+		}
+		.urban{
+			width: 100%;
+			height: 350px;
+			position: relative;
+			top: -100px;
+			}
+		.we_love_urban{
+			position: relative;
+			top: -180px;
+			color: white;
+			padding-left: 50px;
+		}
+		.urban_box{
+			width: 250px;
+			height: 350px;
+			float: right;
+			position: relative;
+			top: -534px;
+			background: #555252;
+			opacity: 0.5;
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+		.urban_text{
+			color: white;
+		}
+		.gallery_text{
+			font-size: 30px;
+		}
+		.gallery_text_div{
+			border: solid;
+			border-right: none;
+			border-top: none;
+			border-left: none;
+			position: relative;
+			top: -50px;
+		}
+		.left_div{
+			width: 900px;
+			padding-left: 20px;
+			position: relative;
+			top: -100px;
+		}
+		.gallery_icon{
+			float: right;
+			position: relative;
+			top: -50px;
+		}
+		.date{
+			float: right;
+		}
+		.philadelphia{
+			float: left;
+		}
+		.phil{
+			font-size: 40px;
+			position: relative;
+			top: -80px;
+		}
+		.philly_img{
+			position: relative;
+			top: -25px;
+		}
+		.join_us{
+			font-size: 22px;
+			position: relative;
+			top: -120px;
+			border: solid;
+			border-top: none;
+			border-left: none;
+			border-right: none;
+		}
+		.chicago{
+			font-size: 35px;
+			position: relative;
+			top: -100px;
+		}
+		.chicago_text{
+			float: left;
+		}
+		.chicago_date{
+			float: right;
+		}
+		.chicago_img{
+			position: relative;
+			top: -20px;
+			width: 885px;
+			height: 250px;
+		}
+		.big_wind{
+			font-size: 22px;
+			position: relative;
+			top: -120px;
+			border: solid;
+			border-top: none;
+			border-left: none;
+			border-right: none;
+		}
+		.newyork{
+			font-size: 35px;
+			position: relative;
+			top: -100px;
+		}
+		.ny_text{
+			float: left;
+		}
+		.ny_date{
+			float: right;
+		}
+		.ny_img{
+			position: relative;
+			top: -20px;
+			width: 885px;
+			height: 250px;
+		}
+		.xmas{
+			font-size: 22px;
+			position: relative;
+			top: -120px;
+			border: solid;
+			border-top: none;
+			border-left: none;
+			border-right: none;
+		}
+		.right_div{
+			float: right;
+			position: relative;
+			top: -1600px;
+		}	
+		a {
+			text-decoration: none;
+			color: black;
+		}
+		.archived_galleries{
+		}
+		.contest_div{
+			margin-right: 15px;
+			position: relative;
+			top: 30px;
+		}
+		.contest_text{
+			width: 200px;
+			position: relative;
+			top: 30px;
+		}
+		.enter_button{
+			width:100px;
+		}
+		.pcontest_img{
+			width: 200px;
+		}
+		.pcontest{
+			position: relative;
+			top: 40px;
+		}
+		.footer{ 
+			position: relative;
+			top: -1450px;
+			background-color: #888599;
+			height: 150px;
+			clear: both;
+			width: 100%
+		}
+		.twitter{
+			float: right;
+			padding-right: 50px;
+			font-size: 20px;
+			font-weight: bold;
+		}
+		.looking{
+			float: left;
+			padding-left: 50px;
+			font-size: 20px;
+			font-weight: bold;
+		}
+		.tr1{
+			background-color: #b1b6b6;
+		}
+		.tr2{
+			background-color: #bef3e0; 
+		}
+		.table{
+			width: 220px;
+			height: 500px;
+			margin: 20px;
+			position: relative;
+			top: 30px;
+		}
+		.mainbody{
+			height: 100px;
+		}
